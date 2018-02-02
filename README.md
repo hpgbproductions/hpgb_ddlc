@@ -21,4 +21,7 @@ Other files created during production were left in if you want them, they are no
 
 -------- Version History --------
 
-v 1.0   - Balloon Release    v 1.0.1 - removed some unnecessary files    v 1.0.2 - changed online marker to be less intrusive    v 1.0.3 - modified large balloon validrect, now works better with some rss feeds
+v 1.0   - Balloon Release
+v 1.0.1 - removed some unnecessary files
+v 1.0.2 - changed online marker to be less intrusive
+v 1.0.3 - modified large balloon validrect, now works better with some rss feeds
